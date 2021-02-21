@@ -66,7 +66,7 @@ curl -XPUT localhost:9200/index명/type명_search -d’ {REQUEST BODY}
    [,"<aggregation_name_2>" : { ... }]*
 }
 ```
-#### 기능에 따라 
+#### - 기능에 따라 
 ```
 Metric Aggregation : 산술
 
