@@ -12,6 +12,8 @@ ElasticSearch가 실행되면 9200, 9300 포트가 오픈된다.
 
 ### Rest API
 
+![image](https://user-images.githubusercontent.com/55612222/108634247-17fc0c80-74bc-11eb-889d-31e9506bcb66.png)
+
 ### Create, Delete Index
 
 ```
