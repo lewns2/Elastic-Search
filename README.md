@@ -8,6 +8,8 @@ ElasticSearch가 실행되면 9200, 9300 포트가 오픈된다.
 ```
 ### ELASTIC SEARCH vs RELATIONAL DB
 
+![image](https://user-images.githubusercontent.com/55612222/108634230-0155b580-74bc-11eb-8661-ee7f11169f54.png)
+
 ### Rest API
 
 ### Create, Delete Index
